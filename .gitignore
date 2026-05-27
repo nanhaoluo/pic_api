@@ -1,0 +1,7 @@
+.idea/
+*.iml
+.env
+vendor/
+.phpunit.cache/
+*.log
+.DS_Store
